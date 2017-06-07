@@ -6,21 +6,22 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Yummy Theme # ex. I m Chuan
-name: Your Name # ex. DONGChuan
-email: my_email_address@lalala.com
-location: My location # ex. Nice, France
-company: MyCompany
-company_url: my_company_website
-github_url: my_github_url # ex. https://github.com/DONGChuan
-description: description_of_your_web_site
-favicon: favicon.png # Image must be in assets/images
-repository: github_username/github_username.github.io # ex. DONGChuan/DONGChuan.github.io
+title: defateQ的博客
+name: defateQ
+email: defateq@hotmail.com
+location: 北京
+company: 中国网络安全公司
+company_url: defateQ
+github_url: https://github.com/defateq
+#description: You should blog even if you have no readers. 写博客是为了总结和巩固已有知识，锻炼表达能力，同时能够在表达的过程中发现自己的知识盲点，让自己不断提高。加油，向目标前进吧！
+description: test
+favicon: favicon.png
+repository: defateq/blog
 
 # The base hostname & protocol for your site
 # For local test, please use http://localhost:4000
 # For production, use your github page url. ex. http://dongchuan.github.io
-url: http://localhost:4000
+url: https://defateq.github.io
 
 ## Gem
 gems:
@@ -76,17 +77,17 @@ navs:
     label: About
 
 # Sidebar to show popular repo
-side_bar_repo_limit: 5 # Number of repos to show
+side_bar_repo_limit: 5 
 
 # Google Analytics
 analytics :
   provider : google
   google :
-      tracking_id : 'tracking_id'  # ex. UA-72165600-X
+      tracking_id : 'tracking_id'
 
 
 # For about.html. Fell free to create your own!
-skill_software_keywords: [Java, C, C++, Qt, Python, MySQL, Oracle, SQLite, PL/SQL, Design Patterns]
+skill_software_keywords: [Java, C, C++, Python, MySQL, Oracle, SQLite]
 skill_j2ee_keywords: [Spring, Struct, Hibernet, MyBatis, JSP]
-skill_web_keywords: [HTML, CSS, JS, JQuery, Ajax, AngularJS, NodeJS, ExpressJS, MongoDB, Redis, PHP, Symfony, Boostrap]
-skill_mobile_app_keywords: [Android, Sketch UI Desgin]
+skill_web_keywords: [HTML, JS, JQuery, Ajax, MongoDB, PHP]
+skill_mobile_app_keywords: [Android]
