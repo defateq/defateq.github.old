@@ -13,8 +13,7 @@ location: 北京
 company: 中国网络安全公司
 company_url: defateQ
 github_url: https://github.com/defateq
-#description: You should blog even if you have no readers. 写博客是为了总结和巩固已有知识，锻炼表达能力，同时能够在表达的过程中发现自己的知识盲点，让自己不断提高。加油，向目标前进吧！
-description: test
+description: You should blog even if you have no readers. 写博客是为了总结和巩固已有知识，锻炼表达能力，同时能够在表达的过程中发现自己的知识盲点，让自己不断提高。加油，向目标前进吧！
 favicon: favicon.png
 repository: defateq/blog
 
@@ -30,6 +29,7 @@ gems:
   - rouge
   - kramdown
   - jekyll-github-metadata
+  - gemoji
 
 # Build settings
 markdown: kramdown
