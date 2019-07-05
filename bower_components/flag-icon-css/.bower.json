@@ -14,12 +14,12 @@
     "package.json"
   ],
   "homepage": "https://github.com/lipis/flag-icon-css",
-  "version": "2.8.0",
-  "_release": "2.8.0",
+  "version": "2.9.0",
+  "_release": "2.9.0",
   "_resolution": {
     "type": "version",
-    "tag": "2.8.0",
-    "commit": "b0a4e05d5e5054e58bd7537c3f1f6712ead19dae"
+    "tag": "2.9.0",
+    "commit": "b3f81d10556e007c460444ec22489e68520eb79d"
   },
   "_source": "https://github.com/lipis/flag-icon-css.git",
   "_target": "^2.3.1",
