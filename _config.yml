@@ -91,3 +91,5 @@ skill_software_keywords: [Java, C, C++, Python, MySQL, Oracle, SQLite]
 skill_j2ee_keywords: [Spring, Struct, Hibernet, MyBatis, JSP]
 skill_web_keywords: [HTML, JS, JQuery, Ajax, MongoDB, PHP]
 skill_mobile_app_keywords: [Android]
+
+theme: jekyll-theme-architect
